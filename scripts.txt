@@ -1,0 +1,33 @@
+# HOW THIS FILE WORKS
+# - Lines starting with # are ignored (notes to yourself).
+# - First line of each video = the title shown at the top.
+# - "search:" line (optional) = English words used to find stock footage for the whole video.
+# - Every other line = one caption on screen, spoken in order, with a new background clip.
+#   Keep each line short (one idea).
+# - A line can start with tags in square brackets:
+#       [emoji:🧠]                big icon above the caption (use one simple emoji)
+#       [stat:24/7]               big number or short text above the caption
+#       [bar:الف=70|ب=40]         simple bar chart, values 0 to 100 (up to 4 bars)
+#       [search:robot]            English words for the footage of this one line
+#       [pause:0.6]               extra pause after this line, in seconds
+#       [rate:+8%]                speak this line faster (+) or slower (-)
+#   You can combine them:  [emoji:🧠][search:robot] your Urdu line here
+# - "tags:" line (optional) = hashtags for the description.
+# - Put --- on its own line between videos.
+# - About 100 to 140 Urdu words in total makes roughly a 45 to 60 second video.
+# - Only put real, checked numbers in [stat] and [bar].
+
+مصنوعی ذہانت کیا ہے؟
+search: technology artificial intelligence
+[emoji:📱][search:smartphone] کیا آپ جانتے ہیں کہ آپ کا موبائل آپ کی بات سمجھ لیتا ہے؟
+[emoji:🤖][search:robot] اس کے پیچھے ہے مصنوعی ذہانت، یعنی اے آئی۔
+[emoji:🧠][search:neural network] اے آئی ایسا کمپیوٹر پروگرام ہے جو مثالوں سے سیکھتا ہے۔
+[emoji:👶][search:child learning] جیسے بچہ بار بار دیکھ کر بلی اور کتے میں فرق سیکھ لیتا ہے۔
+[emoji:📸][search:camera photos] اسی طرح کمپیوٹر لاکھوں مثالیں دیکھ کر پیٹرن پہچاننا سیکھ لیتا ہے۔
+[emoji:🎬][search:video streaming] جب آپ یوٹیوب پر ویڈیو دیکھتے ہیں تو وہی آپ کی پسند کا اندازہ لگا کر نئی ویڈیوز دکھاتی ہے۔
+[stat:24/7][search:data center] اور مشینیں دن رات بغیر تھکے کام کر سکتی ہیں۔
+[emoji:🎤][search:microphone voice] اردو بول کر گوگل پر سرچ کرنا اور ترجمہ کرنا بھی اسی کا کمال ہے۔
+[emoji:🔍][pause:0.4][search:magnifying glass] لیکن یاد رکھیں، اے آئی غلطی بھی کرتی ہے، اس لیے ہر بات کی تصدیق ضرور کریں۔
+[emoji:👍] ایسی مزید آسان باتوں کے لیے چینل کو فالو کریں۔
+tags: #اے_آئی #ٹیکنالوجی #اردو #Shorts
+---
